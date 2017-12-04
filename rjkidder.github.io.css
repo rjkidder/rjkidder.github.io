@@ -10,19 +10,9 @@ h1 {
     }
 
 p {
-      color: maroon;
+      color: DBFF33;
   }
 
-p.Blueberry {
-      color: purple;
-}
 
-p.greentea {
-      color: green;
-}
-
-p.raspberry {
-      color: blue;
-}
 
 /*This is a css comment*/
