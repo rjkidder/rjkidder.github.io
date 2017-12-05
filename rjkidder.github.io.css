@@ -9,12 +9,12 @@ h1,h2 {
     }
 
 h1 {
-        border-bottom: 5px solid orange;
+        border-bottom: 5px solid black;
         font-family: 'Roboto', sans-serif;
     }
 
 p {
-      color: DBFF33;
+      color: green;
   }
 
 
